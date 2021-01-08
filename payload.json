@@ -1,0 +1,4 @@
+{
+  "csv": "https://docs.google.com/spreadsheets/d/1BcQ8HGz-n1ogKJ8_VaOMjsgdiypRbs5MEHt_tgILqlI/export?format=csv",
+  "selectedFields": ["first_name", "last_name", "date_of_birth"]
+}
